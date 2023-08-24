@@ -19,22 +19,26 @@ Understanding data structures and algorithms is fundamental for any programmer o
 ## Topics
 
 The repository covers the following data structures and algorithms:
-
-- [Array](/array)
+- [Miscellaneous](/Algorithm)
 - [Linked List](/linked-list)
 - [Stack](/stack)
 - [Queue](/queue)
 - [Tree](/tree)
 - [Graph](/graph)
+- [Heaps & Priority Queues](/heaps)
 - [Sorting Algorithms](/sorting)
 - [Searching Algorithms](/searching)
+- [Greedy Algorithms](/greedy)
+- [Hashing](/hashing)
+- [Segment Trees](/segment-trees)
+- [String Algorithms & Tries](/trie)
 - [Dynamic Programming](/dynamic-programming)
 
 Each topic has its own folder containing code files, explanations, and examples where applicable.
 
 ## Usage
 
-Feel free to explore the folders and code files in this repository. If you're looking for a specific algorithm or data structure implementation, you can navigate to the corresponding folder and find the relevant code files along with explanations.
+Feel free to explore the folders and code files in this repository. If you're looking for a specific algorithm or data structure implementation, you can navigate to the corresponding folder and find the relevant code files and explanations.
 
 To use the code in your own projects, copy the code files and integrate them into your codebase. Make sure to review the code and adapt it to your programming language and specific use case.
 
