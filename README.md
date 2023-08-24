@@ -19,7 +19,7 @@ Understanding data structures and algorithms is fundamental for any programmer o
 ## Topics
 
 The repository covers the following data structures and algorithms:
-- [Miscellaneous](/Algorithm)
+- [Miscellaneous](/Miscellaneous-Algorithms)
 - [Linked List](/linked-list)
 - [Stack](/stack)
 - [Queue](/queue)
